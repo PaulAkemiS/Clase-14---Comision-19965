@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "nombre":"avena",
+        "precio":300 ,
+        "stock":25
+    },
+    {
+        "id":2,
+        "nombre":"harina",
+        "precio":150,
+        "stock":30
+    },
+    {
+        "id":3,
+        "nombre":"mascabo",
+        "precio":120,
+        "stock":10
+    },
+    {
+        "id":4,
+        "nombre":"coco",
+        "precio":160,
+        "stock":20
+    },
+    {
+        "id":5,
+        "nombre":"nueces",
+        "precio":180,
+        "stock":50
+    },
+    {
+        "id":6,
+        "nombre":"almendras",
+        "precio":200,
+        "stock":60
+    }
+]
